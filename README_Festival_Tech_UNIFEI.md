@@ -130,15 +130,7 @@ pendentes=2, atendidos=0, por_categoria={VIP:1, INTEIRA:1}, espera_media=0.0
 
 ---
 
-## Testes e Demonstrações
-Inclua no arquivo `RELATORIO.pdf` prints de terminal que demonstrem:
-- Compras de ingressos (diferentes categorias).  
-- Alternância de modo (PADRAO/PRIORIDADE).  
-- Atendimentos (`ENTRAR`) e desfazer/refazer.  
-- Navegação com `IR`, `VOLTAR`, `AVANCAR` e `ONDE`.  
-- Mensagens de erro para comandos inválidos.  
 
----
 
 ## Melhorias futuras
 - Persistência do estado (salvar/carregar JSON).  
