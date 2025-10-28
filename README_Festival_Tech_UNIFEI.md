@@ -148,5 +148,4 @@ Inclua no arquivo `RELATORIO.pdf` prints de terminal que demonstrem:
 ---
 
 ## Observações finais
-Este README foi revisado e organizado a partir da versão enviada por vocês para garantir clareza, exemplos e instruções de execução.  
-(Referência: README enviado pelo grupo).
+Este README foi revisado e organizado a partir do relatorio do projeto e com base no arquivo sobre como dever ser feito esse projeto enviado pela professora
